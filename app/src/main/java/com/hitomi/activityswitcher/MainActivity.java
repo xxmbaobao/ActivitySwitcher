@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private RelativeLayout relativeLayout;
     private Button btnNext;
     private TextView tvPage;
+    int a＝5；
 
     private ActivitySwitcher activitySwitcher;
     private int tag;
